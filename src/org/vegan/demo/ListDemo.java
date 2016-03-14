@@ -21,6 +21,7 @@ public class ListDemo {
 		List<String> lstValues = new ArrayList<>();
 		
 		lstValues.add("Larry");
+		lstValues.add("Moe");
 		
 		System.out.println("Size of the array is:  " + lstValues.size());
 		
